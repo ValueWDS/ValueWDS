@@ -37,7 +37,7 @@ To run the Value's Application, follow these steps:
 
 Once the application is running, follow these steps:
 
-1. **Launch the Application:** Open the Desired Application on your preferred browser or platform.
+1. **Launch the Application:** Open the desired Application on your preferred browser or platform.
 2. **Data Transfer:** Transfer data between different platforms using our intuitive interface.
 
 
